@@ -18,7 +18,7 @@ This project is a landing page of a legal consultancy firm. It is purely created
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Netlify*  **[ClickMe]()** 
+- Deployed on *Netlify*  **[ClickMe](https://law-consultancy-yo.netlify.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
